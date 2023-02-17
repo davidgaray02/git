@@ -1,0 +1,20 @@
+html{
+    color: white;
+    height: 100%;
+    background-image: linear-gradient(to right, rgb(15, 42, 59) 30%, rgb(40, 97, 190) 100%);
+    font-size: 150%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    line-height: 1.5;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 255, 42);
+}
+
+.contenido{
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+}
